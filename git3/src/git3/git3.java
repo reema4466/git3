@@ -6,7 +6,7 @@ public class git3 {
 		// TODO Auto-generated method stub
    System.out.println("second commit");
    
-   int u=0;
+   int u=1;
 	}
 
 }
