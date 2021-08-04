@@ -9,7 +9,7 @@ public class git3 {
    int u=1;
    int u2=12;
 	}
-	int i=0;
+	int i=9;
 	public void display1(){
 		System.out.println("in master branch");
 	}
