@@ -13,6 +13,8 @@ public class git3 {
 	public void display2(){
 		System.out.println("in master branch");
 	}
+	
+	
 	public void display1(){
 		System.out.println("in master branch");
 	}
