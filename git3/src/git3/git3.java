@@ -10,10 +10,13 @@ public class git3 {
    int u2=12;
 	}
 	int i=9;
+	public void display2(){
+		System.out.println("in master branch");
+	}
 	public void display1(){
 		System.out.println("in master branch");
 	}
-	public void display2(){
+	public void display3(){
 		System.out.println("in branch1 branch");
 	}
 }
