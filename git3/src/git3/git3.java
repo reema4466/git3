@@ -7,6 +7,7 @@ public class git3 {
    System.out.println("second commit");
    
    int u=1;
+   int u2=12;
 	}
 
 }
