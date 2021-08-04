@@ -12,10 +12,19 @@ public class git3 {
 	int i=9;
 	
 	
+<<<<<<< HEAD
 	public void display1(){
 		System.out.println("in master branch");
 	}
 	public void display3(){
 		System.out.println("in branch1 branch");
 	}
+=======
+	public void display2(){
+		System.out.println("in master branch");
+	}
+	
+	
+	
+>>>>>>> refs/remotes/origin/branch01
 }
